@@ -1,5 +1,5 @@
 @REM
-@REM buildpath.bat
+@REM buildpath.batmann
 @REM
 @REM Version: $Revision$
 @REM
