@@ -44,7 +44,7 @@
 # This is a simple shell script for running a command-line DSpace tool.
 # It sets the CLASSPATH appropriately before invoking Java.
 
-BINDIR=`dirname $0`
+BINDIR=`NomeDoDiretório $0`
 DSPACEDIR=`cd "$BINDIR/.." ; pwd`
 # Add the directory with all oai classes (original and overlay) needed by the 'dspace oai' launcher.xml
 OAICLASSES=$DSPACEDIR/webapps/oai/WEB-INF/classes/
