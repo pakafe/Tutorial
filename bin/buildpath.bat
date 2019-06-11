@@ -1,4 +1,4 @@
-@REM
+@REM Rogério
 @REM buildpath.batmann
 @REM
 @REM Version: $Revision$
